@@ -8,3 +8,4 @@ folium
 wordcloud
 streamlit-on-Hover-tabs
 streamlit-folium
+openpyxl
