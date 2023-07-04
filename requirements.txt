@@ -6,3 +6,4 @@ matplotlib
 seaborn
 folium
 wordcloud
+on_hover_tabs
