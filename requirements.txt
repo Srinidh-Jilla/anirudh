@@ -5,3 +5,4 @@ plotly.express
 matplotlib
 seaborn
 folium
+wordcloud
