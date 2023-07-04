@@ -7,3 +7,4 @@ seaborn
 folium
 wordcloud
 streamlit-on-Hover-tabs
+folium_static
